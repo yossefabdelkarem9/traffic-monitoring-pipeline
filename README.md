@@ -113,4 +113,4 @@ python simulator/traffic_producer.py
 3. **Automated Data Quality:** The pipeline features integrated Data Quality (DQ) checks that act as a circuit breaker. If validation (e.g., speed limit anomalies, NULL values) fails, the Airflow task fails.
 
 ---
-*Created by [Yossef Ahmed](https://www.linkedin.com/in/yossef-ahmed/)*
+*Created by [Yossef Ahmed](https://www.linkedin.com/in/yossefabdelkarem/)*
